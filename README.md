@@ -2,6 +2,8 @@
 
 This repository contains a compact reference implementation of the core method proposed in *Beyond Rejection: Disentangling Semantic and Pseudo Unknowns for Open-World Driver Monitoring*.
 
+![Fast-slow framework](fig1_fast_slow_framework.png)
+
 Included components:
 
 - risk-semantic definitions and text anchors;
@@ -16,4 +18,3 @@ Included components:
 
 ```bash
 python demo.py
-```
